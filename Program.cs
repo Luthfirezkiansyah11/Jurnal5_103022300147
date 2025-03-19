@@ -4,7 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int a = 10;
+            int b = 30;
+            int c = 22;
+            PemrosesData pD = new PemrosesData();
+            Console.WriteLine("Angka Terbesar adalah: " + pD.DapatkanNilaiTerbesar(10, 30, 22));
         }
     }
 }

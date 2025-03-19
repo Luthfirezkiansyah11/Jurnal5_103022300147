@@ -32,3 +32,6 @@ namespace Jurnal5_103022300147
 
 
 
+
+
+
